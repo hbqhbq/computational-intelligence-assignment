@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623682671 source:c:\users\administrator\desktop\ggaa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<time.h>
+	<math.h>
+
